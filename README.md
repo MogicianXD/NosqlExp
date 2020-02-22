@@ -1,24 +1,24 @@
-# sdunosql
+# 非关系型数据库课程设计
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![](https://raw.githubusercontent.com/mogician-alt/PicBed/dev/20200222121803.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
+![](https://raw.githubusercontent.com/mogician-alt/PicBed/dev/20200222121833.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+![](https://raw.githubusercontent.com/mogician-alt/PicBed/dev/20200222122114.png)
+
+![](https://raw.githubusercontent.com/mogician-alt/PicBed/dev/20200222135733.png)
+
+![](https://raw.githubusercontent.com/mogician-alt/PicBed/dev/20200222135820.png)
+
+![](https://raw.githubusercontent.com/mogician-alt/PicBed/dev/20200222135927.png)
+
+![](https://raw.githubusercontent.com/mogician-alt/PicBed/dev/20200222140024.png)
+
+
+
+
+
